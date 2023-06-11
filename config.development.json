@@ -1,0 +1,26 @@
+{
+  "url": "http://60.138.1.114:2368",
+  "server": {
+    "port": 2368,
+    "host": "192.168.3.2"
+  },
+  "database": {
+    "client": "sqlite3",
+    "connection": {
+      "filename": "C:\\work\\js\\ghost\\content\\data\\ghost-local.db"
+    }
+  },
+  "mail": {
+    "transport": "Direct"
+  },
+  "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  },
+  "process": "local",
+  "paths": {
+    "contentPath": "C:\\work\\js\\ghost\\content"
+  }
+}
