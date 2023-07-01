@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "ghost-b9889",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

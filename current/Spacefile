@@ -1,0 +1,7 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: 5-50-4
+    src: ./
+    engine: nodejs16
+    primary: true
